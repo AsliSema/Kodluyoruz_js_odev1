@@ -13,7 +13,7 @@
         let dakika = tarih.getMinutes();
         let saniye = tarih.getSeconds();
         
-        //güne adının alınması işlemi yapıldı.
+        //gün adının alınması işlemi yapıldı.
 
         const nameGun = new Array(7);
         nameGun[0] = "Pazar" ; 
